@@ -2,9 +2,10 @@
 
 ## Supported Versions
 
-### Screen-Recorder
+### ClipVue
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.5.x   | :white_check_mark: |
-| < 1.0.o   | :x:                |
+| 2.0.x   | :white_check_mark: |
+| 1.5.x   | :x:                |
+| < 1.0.0   | :x:                |
